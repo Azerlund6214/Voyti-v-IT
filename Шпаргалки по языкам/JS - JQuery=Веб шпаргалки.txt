@@ -1,0 +1,14 @@
+﻿
+JQuery=Удобный справочник по jQuery API
+https://oscarotero.com/jquery/
+
+
+https://overapi.com/javascript
+https://overapi.com/jquery
+
+
+Регулярные выражения в Javascript
+https://www.debuggex.com/cheatsheet/regex/javascript
+
+
+123
