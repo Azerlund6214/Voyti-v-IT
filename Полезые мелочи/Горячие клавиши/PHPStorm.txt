@@ -1,0 +1,29 @@
+
+
+
+
+Ctrl+P = Описание параметра
+
+
+Ctrl+ / = Комментировать 1 строку
+Ctrl+Shift + / = Комментировать все выделеное
+
+Двигать линию = Alt+Shift+Стрелки
+Двигать блок = Ctrl+Shift+Стрелки
+
+
+Alt+Shift+Insert = Режим где можно ставить курсор где угодно
+
+Меню Edit -> Convert indents -> toSpaces
+Tools->Composer
+
+
+Цветовые темы:
+Дефолтная = Drakula
+
+Хорошие - темные: BlackBoard HighContrast Monocai
+Хорошие - светлые: ClassicLight IntellijLight
+
+Плагин - Material UI
+
+123
