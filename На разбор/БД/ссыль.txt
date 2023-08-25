@@ -1,0 +1,2 @@
+5 правил нормализации бд
+http://vvet.narod.ru/foxpro/5pr01.html
